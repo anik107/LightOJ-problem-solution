@@ -19,3 +19,22 @@
 [Neighbor House](https://github.com/anik107/LightOJ-problem-solution/blob/main/DP/Neighbor%20House.cpp)
 
 [The Specials Menu](https://github.com/anik107/LightOJ-problem-solution/blob/main/DP/The%20Specials%20Menu.cpp)
+
+# Advanced Search Techniques
+[Calm Down.](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Calm%20Down.cpp)
+
+[Coin Change(IV)](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Coin%20Change%20(IV).cpp)
+
+[Counting Triangles](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Counting%20Triangles.cpp)
+
+[Funny Knapsack](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Funny%20Knapsack.cpp)
+
+[Get the Containers](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Get%20the%20Containers.cpp)
+
+[Points in Segments](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Points%20in%20Segments.cpp)
+
+[Trailing Zeroes (III)](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Trailing%20Zeroes%20(III).cpp)
+
+[Triangle Partitioning](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Triangle%20Partitioning.cpp)
+
+[Very Lucky Numbers](https://github.com/anik107/LightOJ-problem-solution/blob/main/Advanced%20Search%20Techniques/Very%20Lucky%20Numbers.cpp)
